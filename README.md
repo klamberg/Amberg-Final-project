@@ -4,7 +4,7 @@ My final project is a Convolutional Neural Network (CNN) trained to take images 
 
 Dataset used: https://cainvas-static.s3.amazonaws.com/media/user_data/Yuvnish17/data.zip
 - consists of both png and jpg images of handwritten numbers (0-9) and math symbols (+, -, ×, ÷) 
-- >400 images per category
+- \>400 images per category
 
 Technology used:
 - All code in python
