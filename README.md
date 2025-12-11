@@ -11,4 +11,4 @@ Technology used:
 - TensorFlow and keras for main CNN model
 - Google Colab Pro, A100 GPU with High-RAM, to run and test model
 
-Link to video explaining project: 
+Link to video explaining project: https://drive.google.com/file/d/1WxYOhf5C7zlonI7it14zy1HwjCQGZZEU/view?usp=sharing
